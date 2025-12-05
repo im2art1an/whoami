@@ -1,19 +1,92 @@
 # whoami
 
-`whoami` is a simple identity script and documentation file that returns a structured snapshot of who I am as a builder.  
-It functions as a developer fingerprint — a clear, honest, and organized representation of what I do with AI tools, what I build, and how I think.
+Most developers introduce themselves with buzzwords.  
+I prefer clarity.
 
-This repository includes:
-- A machine-readable identity script (Python + JavaScript)
-- A full written overview of my skills, focus areas, workflow, and AI capabilities
-- A clear breakdown of the tools I use and the projects I create
+`whoami` is a simple script that answers one question without drama or decoration:
+
+Who am I as a builder, today?
+
+This repository exists because identity should be explicit, not implied.  
+The output is a clean, structured JSON snapshot of what I do, what I know, and how I think — in the simplest form possible.
+
+Nothing here is inflated. Nothing is exaggerated.  
+It is a precise, honest description of my capabilities and direction.
 
 ---
 
-# About Me
+# What I Actually Do
 
-I am an AI Engineer who builds fast prototypes, useful automation tools, and experimental interfaces.  
-My work focuses on clarity, speed, and simplicity — shipping small things that work rather than over-engineering large things that don't.
+I build small, sharp AI tools — the kind that solve one problem extremely well.
+
+My work is not theoretical.  
+I ship fast, learn fast, and discard what doesn’t work.
+
+I use AI the way it should be used:
+- to automate boring things  
+- to speed up thinking  
+- to prototype ideas quickly  
+- to create tools with immediate utility  
+
+I don’t chase trends.  
+I only build things that prove themselves in real usage.
+
+---
+
+# My Capabilities (Without Fluff)
+
+## AI Engineering
+- Build lightweight AI-powered microtools  
+- Create personal assistants and agent workflows  
+- Implement retrieval (RAG) systems for fast knowledge access  
+- Use LLMs to automate decisions, writing, structuring, and filtering  
+- Combine APIs with simple scripts to produce real output, fast  
+
+## Development
+- Browser-based AI apps (HTML/JS/Tailwind)  
+- 3D interface prototypes (Three.js)  
+- Automation scripts in Python + Node  
+- Clean, readable code without unnecessary complexity  
+
+## Execution
+- Turn ideas into working prototypes in hours, not weeks  
+- Strip problems down to essentials  
+- Build for clarity and speed, not corporate over-engineering  
+
+If a tool doesn't reduce friction or save time, I don't build it.
+
+---
+
+# Core Philosophy
+
+My engineering philosophy fits in six lines:
+
+- Ship fast  
+- Keep it simple  
+- Solve one thing at a time  
+- Let results define direction  
+- Only build what is actually used  
+- Never hide behind complexity  
+
+If it feels heavy, I cut it.  
+If it feels confusing, I simplify it.  
+If it feels useless, I delete it.
+
+---
+
+# The Identity Output
+
+Example JSON output from this repo:
+
+```json
+{
+    "name": "Martian",
+    "role": "AI Engineer",
+    "skills": ["AI Tools", "Automation", "3D Interfaces"],
+    "stack": ["Python", "JavaScript", "AI APIs", "Three.js"],
+    "current_focus": ["AI agents", "micro tools", "fast prototyping"],
+    "principles": ["ship fast", "stay curious", "keep things simple"]
+}
 
 I work with:
 - AI tools  
