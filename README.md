@@ -1,56 +1,98 @@
-# What I Actually Do
+# 👋 I'm Martian — I Build With AI
 
-I build small, sharp AI tools — the kind that solve one problem extremely well.
+Most developers talk about AI.  
+I use it to build things that actually work.
 
-My work is not theoretical.  
-I ship fast, learn fast, and discard what doesn’t work.
+I design small, sharp tools — utilities, assistants, automations —  
+the kind of things that save time, remove friction, and make life easier.
 
-I use AI the way it should be used:
-- to automate boring things  
-- to speed up thinking  
-- to prototype ideas quickly  
-- to create tools with immediate utility  
-
-I don’t chase trends.  
-I only build things that prove themselves in real usage.
+I don’t over-engineer. I don’t chase hype.  
+I build what proves itself in real usage, and I delete everything else.
 
 ---
 
-# My Capabilities (Without Fluff)
+## What I Actually Do
 
-## AI Engineering
-- Build lightweight AI-powered microtools  
-- Create personal assistants and agent workflows  
-- Implement retrieval (RAG) systems for fast knowledge access  
-- Use LLMs to automate decisions, writing, structuring, and filtering  
-- Combine APIs with simple scripts to produce real output, fast  
+- Build AI-powered microtools with real utility  
+- Develop assistants and agent workflows  
+- Create automation scripts that remove repetitive work  
+- Prototype ideas in hours, not weeks  
+- Explore every major AI tool, model, and workflow  
+- Design simple browser-based AI apps (JS + Tailwind)  
+- Experiment with 3D and interactive UIs using Three.js  
 
-## Development
-- Browser-based AI apps (HTML/JS/Tailwind)  
-- 3D interface prototypes (Three.js)  
-- Automation scripts in Python + Node  
-- Clean, readable code without unnecessary complexity  
-
-## Execution
-- Turn ideas into working prototypes in hours, not weeks  
-- Strip problems down to essentials  
-- Build for clarity and speed, not corporate over-engineering  
-
-If a tool doesn't reduce friction or save time, I don't build it.
+If a tool doesn’t reduce friction or save time,  
+I don’t build it.
 
 ---
 
-# Core Philosophy
+## My Relationship with AI Tools
 
-My engineering philosophy fits in six lines:
+I treat AI tools like a workshop — models, APIs, embeddings, agents, automations.
+
+I’ve tested almost everything:
+OpenAI, Claude, Gemini, Llama, RAG frameworks, vector DBs, agent stacks, vision models, speech models, code models — if it exists, I’ve used it.
+
+I don’t “learn tools.”  
+I break them apart until I understand what they can’t do.  
+That’s where the interesting ideas come from.
+
+---
+
+## What I'm Good At
+
+- Turning ideas into working prototypes fast  
+- Writing clean, minimal code in Python + JavaScript  
+- Building things people actually use  
+- Simplifying problems others overcomplicate  
+- Using AI as leverage rather than decoration  
+
+---
+
+## Core Principles
 
 - Ship fast  
 - Keep it simple  
-- Solve one thing at a time  
-- Let results define direction  
-- Only build what is actually used  
+- Solve one problem at a time  
+- Build only what proves its value  
+- Use the right tool, not the popular tool  
 - Never hide behind complexity  
 
-If it feels heavy, I cut it.  
-If it feels confusing, I simplify it.  
-If it feels useless, I delete it.
+---
+
+## What I'm Working On Now
+
+- Personal AI assistants  
+- Micro automations  
+- Browser-based AI workflows  
+- Small 3D AI-driven interfaces  
+- A library of sharp, useful AI tools  
+
+I’m not building for virality.  
+I’m building for impact.
+
+---
+
+## Featured Repositories
+
+### 🔹 whoami  
+A brutally honest identity script that defines who I am as a builder.
+
+### 🔹 ai-micro-tools  
+A growing collection of sharp, lightweight AI utilities.
+
+### 🔹 rag-assistant  
+A simple, fast retrieval system for personal knowledgebases.
+
+### 🔹 automation-scripts  
+Tiny automations designed to save minutes every day.
+
+---
+
+## The Short Version
+
+I experiment with every AI tool I can find,  
+I build things that actually work,  
+and I keep going until life feels easier —  
+for me and for anyone using my tools.
+
