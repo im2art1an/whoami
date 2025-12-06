@@ -104,7 +104,7 @@ Building for **impact**.
 
 ---
 
-# 🎨 AI Tech Stack (Icon Grid)
+# 🎨 AI Tech Stack:
 
 <div align="center">
 
