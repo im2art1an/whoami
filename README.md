@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- ANIMATED TITLE -->
-<img src="https://readme-typing-svg.herokuapp.com?size=30&width=750&color=AD58FF&center=true&vCenter=true&lines=Martian+—+I+Build+With+AI;Small+Tools.+Fast+Execution.+Real+Results.;AI+as+Leverage%2C+Not+Decoration." />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&width=750&color=AD58FF&center=true&vCenter=true&lines=Martian+—+AI+%26+Solana+Builder;Small+Tools.+Fast+Execution.+On-Chain+Experiments.;AI+%2B+Crypto+as+Leverage." />
 
 <!-- GRADIENT DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="85%" />
@@ -11,101 +11,78 @@
 
 <!-- BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/AI_Engineer-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Builder-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Solana_Developer-10B981?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ships_Fast-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Builds_That_Work-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zero_Hype-E11D48?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Keeps_It_Simple-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Crypto_Native-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Minimalist_Dev-3B82F6?style=for-the-badge" />
 </p>
 
 <br>
 </div>
 
----
-
 <!-- WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=wave&height=130&color=8A2BE2&section=header&reversal=true" width="100%" />
 
----
+<!-- MAIN BODY (All in ONE SECTION just like you wanted) -->
 
-# 🚀 What I Actually Do
-
-I build **small, sharp AI tools** — utilities, assistants, and automations  
-that remove friction, save time, and actually get used.
-
-- AI-powered microtools that solve one problem extremely well  
-- Personal assistants and agent workflows  
-- Automations that eliminate repetitive thinking  
-- Prototypes delivered in hours, not weeks  
-- Browser-based AI apps (JavaScript + Tailwind)  
-- 3D & interactive AI-driven UIs (Three.js)  
-- Relentless experimentation across the entire AI ecosystem  
-
-> If a tool doesn’t reduce friction or save time, I don’t build it.
-
----
-
-# 🧰 My Relationship With AI Tools
-
-AI tools are my workshop.  
-Models, embeddings, agents, APIs, runtimes — I use them all.
-
-I've pushed nearly everything:
-
-**OpenAI · Claude · Gemini · Llama  
-RAG stacks · Vector DBs · Agents · Local AI  
-Vision models · Speech models · Code models**
+I build **AI tools, autonomous agents, Solana on-chain programs, RPC bots, micro-dApps, and small utilities** that actually get used.  
+Fast prototypes, clean execution, crypto-native thinking, zero hype — tools that make life easier.
 
 I don’t “learn tools.”  
 I break them until I understand their limits.
 
-That’s where the real ideas come from.
+I build:
+
+- High-speed Solana bots & micro-programs (Rust + Anchor)  
+- Crypto automations & RPC workflow runners  
+- AI-powered assistants and reasoning agents  
+- Browser-based AI apps (JavaScript + Tailwind)  
+- Ultra-light developer tools that remove friction  
+- Fast prototypes shipped in hours, not weeks  
+
+> **If it doesn’t save time or reduce friction, I don’t build it.**
+
+I’ve pushed nearly everything across AI + Crypto:
+
+**OpenAI · Claude · Gemini · Llama · RAG · Vector DBs · Agents · On-chain Runtimes · RPC Pipelines · Local AI · WebAI · WASM · Rust Bots**
+
+I don’t care about trends.  
+I care about *speed, simplicity, and results.*
+
+I use AI + Solana as **leverage**, not decoration.
 
 ---
-
-# ⚡ What I'm Good At
-
-- Turning ideas into working prototypes fast  
-- Writing clean, minimal Python + JavaScript  
-- Building tools real people use  
-- Cutting complexity (not adding it)  
-- Using AI as leverage, not decoration  
-
----
-
-# 🧭 Core Principles
 
 <div align="center">
 
+<!-- PRINCIPLES -->
 🌑 **Ship fast**  
 🌒 **Keep it simple**  
-🌓 **Solve one problem at a time**  
-🌕 **Only build what proves its value**  
-🌖 **Use the right tool, not the trendy one**  
-🌗 **Never hide behind complexity**
+🌓 **One problem at a time**  
+🌕 **Tools > talk**  
+🌖 **Execution > opinions**  
+🌗 **Crypto + AI = Leverage**
 
 </div>
 
-If it feels heavy, I cut it.  
-If it feels confusing, I simplify it.
-
 ---
 
-# 🔥 What I'm Building Right Now
+I’m currently building:
 
-- Personal AI assistants  
-- Micro automations that run independently  
-- Browser-based AI flows  
-- 3D AI-driven interfaces  
-- A clean library of small, sharp AI tools  
+- Solana micro-dApps  
+- RPC automation layers  
+- Personal AI agents  
+- High-speed Rust tools  
+- Autonomous workflows  
+- A clean library of small, sharp AI + Crypto utilities  
 
 Not building for virality.  
 Building for **impact**.
 
 ---
 
-# 🎨 AI Tech Stack:
-
+<!-- SKILLS BLOCK -->
 <div align="center">
 
 <table>
@@ -113,17 +90,17 @@ Building for **impact**.
 <td><img height="40" src="https://skillicons.dev/icons?i=python"></td>
 <td><img height="40" src="https://skillicons.dev/icons?i=javascript"></td>
 <td><img height="40" src="https://skillicons.dev/icons?i=nodejs"></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=html"></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=rust"></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=solana"></td>
 <td><img height="40" src="https://skillicons.dev/icons?i=tailwind"></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=threejs"></td>
 </tr>
 <tr>
 <td align="center">Python</td>
 <td align="center">JavaScript</td>
 <td align="center">Node</td>
-<td align="center">HTML</td>
+<td align="center">Rust</td>
+<td align="center">Solana</td>
 <td align="center">Tailwind</td>
-<td align="center">Three.js</td>
 </tr>
 </table>
 
@@ -131,8 +108,7 @@ Building for **impact**.
 
 ---
 
-# 📊 GitHub Stats:
-
+<!-- GITHUB STATS -->
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=im2art1an&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2art1an&layout=compact&theme=tokyonight&hide_border=true" />
@@ -140,26 +116,19 @@ Building for **impact**.
 
 ---
 
-
----
-
-# 🎯 TL;DR:
-
 <div align="center">
 
-### **I experiment with every AI tool I can find.**  
-### **I build things that actually work.**  
-### **I keep going until life feels easier — for me and anyone using my tools.**
+### **I experiment. I break things. I build what works.**  
+### **AI × Crypto is the next frontier — I’m already building in it.**
 
 <br>
 
 <!-- FOOTER BADGES -->
 <p>
   <img src="https://img.shields.io/badge/OpenAI-PowerUser-3B82F6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Claude-Expert-9333EA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gemini-Explorer-06B6D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Llama-Labs-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Experimentation-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Solana-OnChain-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Rust-BuildsBots-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Experimentation-Live-DC2626?style=flat-square" />
 </p>
 
 </div>
