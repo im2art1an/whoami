@@ -2,103 +2,88 @@
 <div align="center">
 
 <!-- ANIMATED TITLE -->
-<img src="https://readme-typing-svg.herokuapp.com?size=30&width=750&color=AD58FF&center=true&vCenter=true&lines=Martian+—+AI+%26+Solana+Builder;Small+Tools.+Fast+Execution.+On-Chain+Experiments.;AI+%2B+Crypto+as+Leverage." />
+<img src="https://readme-typing-svg.herokuapp.com?size=32&width=850&color=BB77FF&center=true&vCenter=true&lines=Martian+—+AI+%2B+Solana+Engineer;I+Build+Tools+That+Actually+Work.;No+Hype.+Only+Execution.+Real+Impact." />
 
-<!-- GRADIENT DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="85%" />
+<!-- DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="88%" />
 
 <br>
 
-<!-- BADGES -->
+<!-- POWER BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/AI_Builder-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Solana_Developer-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ships_Fast-F59E0B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Crypto_Native-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Minimalist_Dev-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Engineer-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana_On_Chain-14F195?style=for-the-badge&logo=solana&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust_Developer-F97316?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ships_Fast-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zero_BS_Dev-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Breaks_Limits-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tools_Not_Talk-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_%C3%97_Crypto_Optimized-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/No_Excuses-DC2626?style=for-the-badge" />
 </p>
 
 <br>
 </div>
 
-<!-- WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=wave&height=130&color=8A2BE2&section=header&reversal=true" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=130&color=7C3AED&section=header&reversal=true" width="100%" />
 
-<!-- MAIN BODY (All in ONE SECTION just like you wanted) -->
+<!-- BODY (ONE SINGLE SECTION) -->
 
-I build **AI tools, autonomous agents, Solana on-chain programs, RPC bots, micro-dApps, and small utilities** that actually get used.  
-Fast prototypes, clean execution, crypto-native thinking, zero hype — tools that make life easier.
+I build **AI agents, Solana programs, RPC bots, micro-dApps, high-speed Rust utilities, and tiny tools that remove friction from real life.**  
+No noise. No bloated frameworks. No fake productivity.  
+Just **fast, clean, brutally effective tools** that work.
+
+My identity is simple: **I ship.**
+
+I don’t chase hype — I chase **clarity, speed, and results**.  
+AI helps me think. Solana helps me scale. Rust keeps me honest.
+
+I build because I hate inefficiency.  
+I automate because humans shouldn’t do repetitive tasks.  
+I experiment because progress demands breaking limits.
+
+If a tool doesn’t save time or create leverage, I don’t ship it.
+
+I have pushed everything across AI × Crypto:  
+**OpenAI · Claude · Gemini · Llama · LocalAI · Vision · Speech · Agents · RAG · Vector DBs · Solana RPC · Anchor · Rust Pipelines · Bot Runtimes**
 
 I don’t “learn tools.”  
-I break them until I understand their limits.
-
-I build:
-
-- High-speed Solana bots & micro-programs (Rust + Anchor)  
-- Crypto automations & RPC workflow runners  
-- AI-powered assistants and reasoning agents  
-- Browser-based AI apps (JavaScript + Tailwind)  
-- Ultra-light developer tools that remove friction  
-- Fast prototypes shipped in hours, not weeks  
-
-> **If it doesn’t save time or reduce friction, I don’t build it.**
-
-I’ve pushed nearly everything across AI + Crypto:
-
-**OpenAI · Claude · Gemini · Llama · RAG · Vector DBs · Agents · On-chain Runtimes · RPC Pipelines · Local AI · WebAI · WASM · Rust Bots**
-
-I don’t care about trends.  
-I care about *speed, simplicity, and results.*
-
-I use AI + Solana as **leverage**, not decoration.
-
----
+I **break** them until I understand how far they go —  
+and then I build something better on top of them.
 
 <div align="center">
 
-<!-- PRINCIPLES -->
-🌑 **Ship fast**  
-🌒 **Keep it simple**  
-🌓 **One problem at a time**  
-🌕 **Tools > talk**  
-🌖 **Execution > opinions**  
-🌗 **Crypto + AI = Leverage**
+🌑 Ship fast  
+🌒 Be honest  
+🌓 Keep it simple  
+🌕 Solve real problems  
+🌖 Use AI × Crypto as leverage  
+🌗 Complexity is the enemy  
 
 </div>
 
----
+I’m currently building:  
+**Solana micro-bots · On-chain utilities · Autonomous AI agents · Rust executors · Micro dashboards · Browser AI tools · Clean dev utilities**
 
-I’m currently building:
+I don’t build for attention.  
+I build for people who appreciate **precision, speed, and originality**.
 
-- Solana micro-dApps  
-- RPC automation layers  
-- Personal AI agents  
-- High-speed Rust tools  
-- Autonomous workflows  
-- A clean library of small, sharp AI + Crypto utilities  
-
-Not building for virality.  
-Building for **impact**.
-
----
-
-<!-- SKILLS BLOCK -->
 <div align="center">
 
 <table>
 <tr>
-<td><img height="40" src="https://skillicons.dev/icons?i=python"></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=javascript"></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=nodejs"></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=rust"></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=solana"></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=tailwind"></td>
+<td><img height="42" src="https://skillicons.dev/icons?i=python"></td>
+<td><img height="42" src="https://skillicons.dev/icons?i=rust"></td>
+<td><img height="42" src="https://skillicons.dev/icons?i=javascript"></td>
+<td><img height="42" src="https://skillicons.dev/icons?i=nodejs"></td>
+<td><img height="42" src="https://skillicons.dev/icons?i=solana"></td>
+<td><img height="42" src="https://skillicons.dev/icons?i=tailwind"></td>
 </tr>
 <tr>
 <td align="center">Python</td>
+<td align="center">Rust</td>
 <td align="center">JavaScript</td>
 <td align="center">Node</td>
-<td align="center">Rust</td>
 <td align="center">Solana</td>
 <td align="center">Tailwind</td>
 </tr>
@@ -106,32 +91,26 @@ Building for **impact**.
 
 </div>
 
----
-
-<!-- GITHUB STATS -->
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=im2art1an&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2art1an&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=im2art1an&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2art1an&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
----
 
 <div align="center">
 
 ### **I experiment. I break things. I build what works.**  
-### **AI × Crypto is the next frontier — I’m already building in it.**
+### **AI × Solana is the new frontier — I'm already building in it.**
 
 <br>
 
-<!-- FOOTER BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-PowerUser-3B82F6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Solana-OnChain-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Rust-BuildsBots-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Experimentation-Live-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-PowerUser-3B82F6?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/Solana-Builder-14F195?style=flat-square&logo=solana" />
+  <img src="https://img.shields.io/badge/Rust-OnChainBots-F97316?style=flat-square&logo=rust" />
+  <img src="https://img.shields.io/badge/AI_Agents-Live-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Break_The_Limits-9333EA?style=flat-square" />
 </p>
 
 </div>
 
-<!-- WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=3B0764&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=4C1D95&section=footer" width="100%" />
