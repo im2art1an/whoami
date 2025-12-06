@@ -131,7 +131,7 @@ Building for **impact**.
 
 ---
 
-# 📊 GitHub Stats (Neon Theme)
+# 📊 GitHub Stats:
 
 <div align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=im2art1an&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -140,27 +140,10 @@ Building for **impact**.
 
 ---
 
-# 📌 Featured Repositories
-
-<div align="center">
-
-### 🔹 **whoami**  
-A brutally honest identity script defining who I am as a builder.
-
-### 🔹 **ai-micro-tools**  
-A growing library of sharp, lightweight AI utilities.
-
-### 🔹 **rag-assistant**  
-A fast, simple retrieval system for personal knowledge.
-
-### 🔹 **automation-scripts**  
-Small automations designed to save minutes every day.
-
-</div>
 
 ---
 
-# 🎯 The Short Version
+# 🎯 TL;DR:
 
 <div align="center">
 
