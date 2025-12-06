@@ -94,7 +94,7 @@ I’m trying to build things that hold up under pressure.
 
 </div>
 
-<!-- CLEAN STATS -->
+<!-- CLEAN STATS --
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=im2art1an&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2art1an&layout=compact&theme=tokyonight&hide_border=true" />
