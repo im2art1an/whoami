@@ -1,11 +1,10 @@
-<!-- MYTHIC HEADER (Calm, powerful, precise) -->
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&pause=600&color=BA8CFF&center=true&vCenter=true&width=900&lines=Martian+—+AI+%C3%97+Solana+Systems+Builder;Precision.+Speed.+Clarity.;Tools+Built+For+Real+Use%2C+Not+Show." />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="86%" />
 
-<!-- HONEST BADGES -->
+<!-- BADGES -->
 <p>
   <img src="https://img.shields.io/badge/AI_Agent_Builder-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Solana_OnChain_Dev-14F195?style=for-the-badge&logo=solana&logoColor=black" />
@@ -19,7 +18,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=9D4EDD" width="100%" />
 
-<!-- SINGLE MYTHIC BODY (HONEST TONE) -->
+<!--HONEST -->
 I build **AI agents, Solana automation systems, Rust executors, on-chain tools, and small utilities** designed to remove friction and create leverage.  
 I don’t chase trends. I don’t ship noise. I don’t glorify complexity.  
 I focus on **clarity, correctness, practicality, and speed of execution**.
@@ -58,7 +57,7 @@ Right now I’m working on:
 I’m not trying to impress anyone.  
 I’m trying to build things that hold up under pressure.
 
-<!-- MYTHIC PRINCIPLES -->
+<!-- PRINCIPLES -->
 <div align="center">
 
 🌑 Clarity > Cleverness  
@@ -70,7 +69,7 @@ I’m trying to build things that hold up under pressure.
 
 </div>
 
-<!-- SKILLS (CALM, CLEAN, NOT FLASHY) -->
+<!-- SKILLS -->
 <div align="center">
 
 <table>
@@ -94,14 +93,7 @@ I’m trying to build things that hold up under pressure.
 
 </div>
 
-<!-- CLEAN STATS --
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=im2art1an&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2art1an&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br>
-
+<!-- CLEAN STATS --> 
 <!-- MYTHIC CLOSER -->
 <div align="center">
 
