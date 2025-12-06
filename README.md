@@ -1,83 +1,97 @@
-<!-- HEADER -->
+<!-- LEGENDARY COSMIC HEADER -->
 <div align="center">
 
-<!-- ANIMATED TITLE -->
-<img src="https://readme-typing-svg.herokuapp.com?size=32&width=850&color=BB77FF&center=true&vCenter=true&lines=Martian+—+AI+%2B+Solana+Engineer;I+Build+Tools+That+Actually+Work.;No+Hype.+Only+Execution.+Real+Impact." />
+<!-- ANIMATED LEGEND TITLE -->
+<img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3600&pause=600&color=CB7CFF&center=true&vCenter=true&width=1000&lines=Martian+—+AI+%C3%97+Solana+Systems+Engineer;Tools+So+Sharp+They+Border+on+Unfair.;Building+at+Escape+Velocity." />
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="88%" />
+<!-- LEGENDARY NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="92%" />
 
-<br>
-
-<!-- POWER BADGES -->
+<!-- ULTIMATE GOD-TIER BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/AI_Engineer-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana_On_Chain-14F195?style=for-the-badge&logo=solana&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rust_Developer-F97316?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ships_Fast-EC4899?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zero_BS_Dev-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Breaks_Limits-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tools_Not_Talk-22C55E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_%C3%97_Crypto_Optimized-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/No_Excuses-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Systems_Architect-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solana_OnChain_Engineer-14F195?style=for-the-badge&logo=solana&logoColor=black" />
+  <img src="https://img.shields.io/badge/Rust_Core_Developer-F97316?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Breaks_Limits_For_Fun-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MicroTools%3EFrameworks-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zero_Fluff_Only_Output-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_%C3%97_Crypto_Optimized-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Speed_is_My_Religion-DC2626?style=for-the-badge" />
 </p>
 
-<br>
+<!-- HOLOGRAM GLOW BAR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=10&color=A855F7" width="100%" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=130&color=7C3AED&section=header&reversal=true" width="100%" />
+<!-- MAIN BODY (ONE SINGLE BLOCK) -->
+I design and build **AI agents, Solana programs, automated RPC pipelines, micro-dApps, high-frequency bots, and Rust-powered execution systems** built for speed, clarity, and brutal efficiency.
 
-<!-- BODY (ONE SINGLE SECTION) -->
+My tools feel like unfair advantages — fast, small, surgical.
 
-I build **AI agents, Solana programs, RPC bots, micro-dApps, high-speed Rust utilities, and tiny tools that remove friction from real life.**  
-No noise. No bloated frameworks. No fake productivity.  
-Just **fast, clean, brutally effective tools** that work.
+I don’t “use AI.”  
+I weaponize it.  
+I don’t “learn new tools.”  
+I break them until I understand the physics.  
+I don’t “follow trends.”  
+I build the tools trendsetters eventually copy.
 
-My identity is simple: **I ship.**
+AI gives me leverage.  
+Solana gives me speed.  
+Rust gives me control.  
+Together, they let me build systems that operate at escape velocity.
 
-I don’t chase hype — I chase **clarity, speed, and results**.  
-AI helps me think. Solana helps me scale. Rust keeps me honest.
+I’ve pushed every critical frontier of AI × Crypto:
 
-I build because I hate inefficiency.  
-I automate because humans shouldn’t do repetitive tasks.  
-I experiment because progress demands breaking limits.
+**OpenAI • Claude • Gemini • Llama • Local LLMs  
+RAG + Embeddings • Vector Databases  
+Autonomous Agents • Model Orchestration  
+Vision • Speech • CodeGen  
+Solana RPC • Anchor • WASM • Rust Pipelines  
+On-chain Execution Layers • High-Frequency Crypto Bots  
+Latency-Optimized Architecture • Stateless AI APIs**
 
-If a tool doesn’t save time or create leverage, I don’t ship it.
+> **If a tool doesn’t create leverage, it’s noise.  
+If it doesn’t reduce friction, it dies.**
 
-I have pushed everything across AI × Crypto:  
-**OpenAI · Claude · Gemini · Llama · LocalAI · Vision · Speech · Agents · RAG · Vector DBs · Solana RPC · Anchor · Rust Pipelines · Bot Runtimes**
+I build for one purpose:  
+**to make impossible workflows feel effortless.**
 
-I don’t “learn tools.”  
-I **break** them until I understand how far they go —  
-and then I build something better on top of them.
+Right now I’m forging:
 
+- Lightning-fast Solana microprograms  
+- A fleet of autonomous AI agents  
+- High-speed Rust executors & crypto bots  
+- Web-based AI systems with zero delay  
+- A library of tiny tools that punch above their size  
+- A unified AI × Solana automation stack  
+
+I don’t build for clout.  
+I build for people who understand output > aesthetics.
+
+<!-- COSMIC PRINCIPLES -->
 <div align="center">
 
-🌑 Ship fast  
-🌒 Be honest  
-🌓 Keep it simple  
-🌕 Solve real problems  
-🌖 Use AI × Crypto as leverage  
-🌗 Complexity is the enemy  
+🌑 Speed over everything  
+🌒 Simplicity = Power  
+🌓 AI × Solana = Unfair Advantage  
+🌕 Utility > Hype  
+🌖 Tools > Talk  
+🌗 Break limits daily  
 
 </div>
 
-I’m currently building:  
-**Solana micro-bots · On-chain utilities · Autonomous AI agents · Rust executors · Micro dashboards · Browser AI tools · Clean dev utilities**
-
-I don’t build for attention.  
-I build for people who appreciate **precision, speed, and originality**.
-
+<!-- NEON SKILL GRID -->
 <div align="center">
 
 <table>
 <tr>
-<td><img height="42" src="https://skillicons.dev/icons?i=python"></td>
-<td><img height="42" src="https://skillicons.dev/icons?i=rust"></td>
-<td><img height="42" src="https://skillicons.dev/icons?i=javascript"></td>
-<td><img height="42" src="https://skillicons.dev/icons?i=nodejs"></td>
-<td><img height="42" src="https://skillicons.dev/icons?i=solana"></td>
-<td><img height="42" src="https://skillicons.dev/icons?i=tailwind"></td>
+<td><img height="50" src="https://skillicons.dev/icons?i=python"></td>
+<td><img height="50" src="https://skillicons.dev/icons?i=rust"></td>
+<td><img height="50" src="https://skillicons.dev/icons?i=javascript"></td>
+<td><img height="50" src="https://skillicons.dev/icons?i=nodejs"></td>
+<td><img height="50" src="https://skillicons.dev/icons?i=solana"></td>
+<td><img height="50" src="https://skillicons.dev/icons?i=tailwind"></td>
 </tr>
 <tr>
 <td align="center">Python</td>
@@ -91,26 +105,32 @@ I build for people who appreciate **precision, speed, and originality**.
 
 </div>
 
+<br>
+
+<!-- GALACTIC STATS -->
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=im2art1an&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2art1an&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=im2art1an&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im2art1an&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
-<div align="center">
-
-### **I experiment. I break things. I build what works.**  
-### **AI × Solana is the new frontier — I'm already building in it.**
 
 <br>
 
+<!-- FINAL COSMIC MESSAGE -->
+<div align="center">
+
+### **I don’t build projects — I build weapons.**  
+### **AI × Solana is the future, and I am already building like it’s 2030.**  
+### **If you found this profile, you’re early.**
+
+<!-- LEGENDARY FOOTER BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-PowerUser-3B82F6?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/Solana-Builder-14F195?style=flat-square&logo=solana" />
-  <img src="https://img.shields.io/badge/Rust-OnChainBots-F97316?style=flat-square&logo=rust" />
-  <img src="https://img.shields.io/badge/AI_Agents-Live-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Break_The_Limits-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-Elite_Operator-3B82F6?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/Solana-OnChain_Commander-14F195?style=flat-square&logo=solana" />
+  <img src="https://img.shields.io/badge/Rust-LowLevel_Mastery-F97316?style=flat-square&logo=rust" />
+  <img src="https://img.shields.io/badge/AI_Agents-Running_Continuously-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/SystemBreaker-Mk_IV-9333EA?style=flat-square" />
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=4C1D95&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=140&color=6D28D9&section=footer" width="100%" />
